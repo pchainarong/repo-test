@@ -1,0 +1,10 @@
+logging:
+  level:
+    root: DEBUG
+sal:
+  login:
+    username: mstarau
+    password: '{cipher}AQICAHhaeio9p9gF0LY/HsyWXV5RPUj5SKDjljAA+YccY64T9AFvE372qN5yI2T4FkNGXNFaAAAAazBpBgkqhkiG9w0BBwagXDBaAgEAMFUGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMsbsjAQc9x+r81K6mAgEQgCgJI7bELonk8lq8hbotB6wXraTctXbopAG3zPDO50Z3+o4fK3l8YW5T'
+  maas:
+    authUrl: https://www.us-stg-api.morningstar.com/token/oauth
+source: application-dev.yaml
