@@ -3,3 +3,17 @@ logging:
     root: INFO
 source: apiservice.yaml
 branch: master
+swagger:
+  apiinfo:
+    title: MCA REST API
+    description: MCA REST API
+    termOfService: Term Of Service
+    termOfServiceUrl: https://www.morningstar.com.au
+    contact:
+      name: Morningstar Technology AU
+      url: https://www.morningstar.com.au
+      email: technology.au2@morningstar.com
+    license: License
+    licenseUrl: https://www.morningstar.com.au
+
+    
