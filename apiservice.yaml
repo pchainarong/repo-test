@@ -7,8 +7,8 @@ swagger:
   apiinfo:
     title: MCA REST API
     description: MCA REST API
+    version: 1.0
     termOfService: Term Of Service
-    termOfServiceUrl: https://www.morningstar.com.au
     contact:
       name: Morningstar Technology AU
       url: https://www.morningstar.com.au
