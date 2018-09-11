@@ -15,5 +15,11 @@ swagger:
       email: technology.au2@morningstar.com
     license: License
     licenseUrl: https://www.morningstar.com.au
-
+sal:
+  auth:
+    endpoint:
+      url: https://www.apac-uat-api.morningstar.com/token/oauth
+    consumer:
+      key: '{cipher}AQICAHhaeio9p9gF0LY/HsyWXV5RPUj5SKDjljAA+YccY64T9AEGzGA02DDMX7lCFoqInYbxAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMWrWybvLXKeqRf3OXAgEQgDvvtX/1i2KEa5hhFa2CAxftirJnKshSR1kXk7/IVEAVPMVmwNrVCq0Enr8siXuP833s73yidzyGcScmYQ=='
+      secret: '{cipher}AQICAHhaeio9p9gF0LY/HsyWXV5RPUj5SKDjljAA+YccY64T9AH2MDu+kA3IbvWyvRX7uGAuAAAAbjBsBgkqhkiG9w0BBwagXzBdAgEAMFgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMCz/Zm6a6qMCQXI/bAgEQgCtwUh7iC6/68gZJwMFDEMh05f9dGC5hBSTy+77KtDqEBXfRsqiNbVQPKtxE'
     
