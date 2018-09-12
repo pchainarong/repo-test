@@ -9,10 +9,9 @@ swagger:
     description: MCA REST API
     version: 1.0
     termOfService: Term Of Service
-    contact:
-      name: Morningstar Technology AU
-      url: https://www.morningstar.com.au
-      email: technology.au2@morningstar.com
+    contactName: Morningstar Technology AU
+    contactUrl: https://www.morningstar.com.au
+    contactEmail: technology.au2@morningstar.com
     license: License
     licenseUrl: https://www.morningstar.com.au
 sal:
