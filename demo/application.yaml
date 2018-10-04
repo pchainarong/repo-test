@@ -1,0 +1,9 @@
+app:
+  name: demo
+logging:
+  level:
+    root: DEBUG
+db:
+  login:
+    username: mstarau
+    password: 
