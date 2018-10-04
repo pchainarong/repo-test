@@ -1,3 +1,5 @@
+app:
+  name: hello-dev
 logging:
   level:
     root: DEBUG
